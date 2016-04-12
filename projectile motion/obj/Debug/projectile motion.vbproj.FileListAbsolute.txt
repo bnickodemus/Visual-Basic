@@ -1,0 +1,10 @@
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\bin\Debug\projectile motion.exe.config
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\bin\Debug\projectile motion.exe
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\bin\Debug\projectile motion.pdb
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\bin\Debug\projectile motion.xml
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\obj\Debug\projectile_motion.Form1.resources
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\obj\Debug\projectile_motion.Resources.resources
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\obj\Debug\projectile motion.vbproj.GenerateResource.Cache
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\obj\Debug\projectile motion.exe
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\obj\Debug\projectile motion.xml
+C:\Users\broct_000\Desktop\projectile motion\projectile motion\obj\Debug\projectile motion.pdb
